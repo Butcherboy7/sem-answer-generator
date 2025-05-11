@@ -1,0 +1,17 @@
+
+gunicorn
+flask
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+weasyprint
+markdown
+python-docx
+google-generativeai
+openai
+anthropic
+email-validator
+werkzeug
+pymupdf==1.20.2
+paddleocr
+paddlepaddle
