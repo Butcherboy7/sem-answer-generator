@@ -1,6 +1,5 @@
-
 gunicorn
-flask
+Flask
 flask-sqlalchemy
 psycopg2-binary
 python-dotenv
@@ -13,5 +12,5 @@ anthropic
 email-validator
 werkzeug
 pymupdf<1.21.0
-paddleocr
-paddlepaddle
+paddleocr==2.7.0.3
+paddlepaddle==2.5.2
