@@ -12,6 +12,6 @@ openai
 anthropic
 email-validator
 werkzeug
-pymupdf==1.20.2
+pymupdf<1.21.0
 paddleocr
 paddlepaddle
